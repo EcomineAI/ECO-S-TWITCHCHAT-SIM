@@ -1,6 +1,6 @@
 # 🎉 **✨ ECO‑S‑TWITCHCHAT‑SIM – Twitch Chat Simulator (Beta 0.5) ✨** 🎉  
 > *Let’s bring your stream to life… even when it’s just you and your code!*  
-> _(repository/file name: **ECO‑S‑TWITCHCHAT‑SIM**)_
+> _(EcomineAI/ECO-S-TWITCHCHAT-SIM)_
 
 [![Language](https://img.shields.io/badge/language-Python-blue)]()
 [![EcomineAI](https://img.shields.io/badge/EcomineAI-purple)]()
@@ -52,7 +52,7 @@ Whether you're debugging a chatbot, practising streaming, or just goofing around
 2. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/EcomineAI.git
+   git clone (https://github.com/EcomineAI/ECO-S-TWITCHCHAT-SIM)
    cd EcomineAI
    ```
 
