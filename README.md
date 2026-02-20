@@ -2,10 +2,9 @@
 > *Let’s bring your stream to life… even when it’s just you and your code!*  
 > _(repository/file name: **ECO‑S‑TWITCHCHAT‑SIM**)_
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/EcomineAI?style=social)](https://github.com/yourusername/EcomineAI/stargazers)
-[![Issues](https://img.shields.io/github/issues/yourusername/EcomineAI)](https://github.com/yourusername/EcomineAI/issues)
-[![License](https://img.shields.io/github/license/yourusername/EcomineAI)](https://github.com/yourusername/EcomineAI/blob/main/LICENSE)
-[![Repo size](https://img.shields.io/github/repo-size/yourusername/EcomineAI)](https://github.com/yourusername/EcomineAI)
+[![Language](https://img.shields.io/badge/language-Python-blue)]()
+[![EcomineAI](https://img.shields.io/badge/EcomineAI-purple)]()
+[![JV-Archon](https://img.shields.io/badge/JV--Archon-red)]()
 [![Version](https://img.shields.io/badge/version-Beta%200.5-orange)](https://github.com/yourusername/EcomineAI/releases)
 
 ---
