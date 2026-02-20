@@ -15,9 +15,9 @@ Created and maintained by **EcomineAI** – the mastermind behind ECO‑S‑TWIT
 
 ---
 
-## 📘 About EcomineAI
+## 📘 About 
 
-EcomineAI is a **Twitch chat simulator** currently in **Beta 0.5**.  
+**Twitch chat simulator** currently in **Beta 0.5**.  
 It’s designed to recreate the energy and madness of a live Twitch chat using artificial intelligence.  
 ⚠️ *Features are experimental and the experience may change as we iterate!*
 
@@ -28,7 +28,7 @@ The idea? When you want to test a stream, bot, or script but don’t have hundre
 - **Hyper, salty, or chill reactions**  
 - **AI-driven personalities**
 
-Whether you're debugging a chatbot, practising streaming, or just goofing around, EcomineAI pumps in the life you crave.
+Whether you're debugging a chatbot, practising streaming, or just goofing around, TWITCHCHAT‑SIM pumps in the life you crave.
 
 ---
 
@@ -95,7 +95,7 @@ Mood: hype
 [00:01] <gamer_girl> anyone got the code?
 [00:02] <ChatBot> !followage 
 [00:03] <twitchy> Kappa keep going!
-[00:05] <anon> HeyEugene 👍👍👍
+[00:05] <jv> HeyEugene 👍👍👍
 ```
 
 > Looks and feels like the real thing, emotes and all. 🔥
@@ -114,5 +114,5 @@ Expect the simulator itself to throw in fun surprises, like “raid” events an
 
 ---
 
-Thanks for trying **EcomineAI** – the chat simulator that doesn’t sleep!  
+Thanks for trying **TWITCHCHAT‑SIM** – the chat simulator that doesn’t sleep!  
 Get ready to hear the fake viewcount rise. 📈💬
