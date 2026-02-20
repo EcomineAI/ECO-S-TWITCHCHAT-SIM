@@ -1,0 +1,11 @@
+# Python dependencies 
+
+# core dependencies (all installable via pip)
+requests
+pysimplegui
+Pillow      # imaging support (used by PIL)
+mss         # screenshots
+
+# tkinter is part of the standard library on most systems
+
+# add other packages if you introduce new imports
