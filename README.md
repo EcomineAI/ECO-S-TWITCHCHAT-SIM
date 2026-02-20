@@ -1,6 +1,6 @@
-# 🎉 **✨ TWITCHCHAT SIM – Twitch Chat Simulator (Beta 0.5) ✨** 🎉  
+# 🎉 **✨ ECO‑S‑TWITCHCHAT‑SIM – Twitch Chat Simulator (Beta 0.5) ✨** 🎉  
 > *Let’s bring your stream to life… even when it’s just you and your code!*  
-> _(repository/file name: **TWITCHCHAT SIM**)_
+> _(repository/file name: **ECO‑S‑TWITCHCHAT‑SIM**)_
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/EcomineAI?style=social)](https://github.com/yourusername/EcomineAI/stargazers)
 [![Issues](https://img.shields.io/github/issues/yourusername/EcomineAI)](https://github.com/yourusername/EcomineAI/issues)
@@ -12,7 +12,7 @@
 
 ## 💡 Credits
 
-Created and maintained by **EcomineAI** – the mastermind behind TWITCHCHAT SIM and the chaos of chat!
+Created and maintained by **EcomineAI** – the mastermind behind ECO‑S‑TWITCHCHAT‑SIM and the chaos of chat!
 
 ---
 
