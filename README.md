@@ -37,7 +37,7 @@ Whether you're debugging a chatbot, practising streaming, or just goofing around
 - 🗨️ **Simulated Twitch Chat** – feeling real with random delays, caps lock, and all  
 - 😄 **Custom Emotes & Reactions** – `Kappa`, `PogChamp`, or your own!  
 - 🖥️ **Interactive CLI or GUI** – chat back and forth in real-time  
-- 🤖 **AI Responses powered by Gemma 3 3B** – local model shipped via **LM Studio** (default, no external API required)  
+- 🤖 **AI Responses powered by Gemma 3 3-7B** – local model shipped via **LM Studio** (default, no external API required)  
 - 🧪 **Fun Experimentation** – spawn spam, raid scenarios, bot armies…
 
 ---
