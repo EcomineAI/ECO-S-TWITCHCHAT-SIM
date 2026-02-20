@@ -52,8 +52,8 @@ Whether you're debugging a chatbot, practising streaming, or just goofing around
 2. **Clone the repo**
 
    ```bash
-   git clone (https://github.com/EcomineAI/ECO-S-TWITCHCHAT-SIM)
-   cd EcomineAI
+   git clone https://github.com/EcomineAI/ECO-S-TWITCHCHAT-SIM
+   cd ECO-S-TWITCHCHAT-SIM
    ```
 
 3. **Install Python dependencies**
